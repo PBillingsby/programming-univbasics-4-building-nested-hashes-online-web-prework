@@ -37,8 +37,8 @@ def monopoly_with_third_tier
         three = 100,
         four = 200
       }
-  }
-}
+	  }
+	}
 end
 
 def monopoly_with_fourth_tier
