@@ -37,10 +37,10 @@ def monopoly_with_third_tier
         overbrook: "overbrook"
       },
       rent_in_dollars: {
-        one: 25,
-        two: 50,
-        three: 100,
-        four: 200
+        one_piece_owned: 25,
+        two_pieces_owned: 50,
+        three_pieces_owned: 100,
+        four_pieces_owned: 200
       }
 	  }
 	}
