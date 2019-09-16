@@ -31,7 +31,7 @@ def monopoly_with_third_tier
     railroads: {
       pieces: 4,
       names: {
-        suburban: "suburban",
+        reading_railroad: "Reading",
         jefferson: "jefferson",
         broad: "broad",
         overbrook: "overbrook"
