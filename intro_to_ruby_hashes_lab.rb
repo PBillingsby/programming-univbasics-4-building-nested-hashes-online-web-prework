@@ -30,7 +30,12 @@ def monopoly_with_third_tier
   monopoly = {
     railroads: {
       pieces: 4,
-      names: {},
+      names: {
+        suburban: "suburban",
+        jefferson: "jefferson",
+        broad: "broad",
+        overbrook: "overbrook"
+      },
       rent_in_dollars: {
         one: 25,
         two: 50,
